@@ -124,13 +124,13 @@ include 'koneksi.php';
         <p>Maaf gabisa ngasi apa apa ke kamu, nanti kalo kamu ke sini aku traktir kamu apa aja yang kamu suka! 😊</p>
         
         <div class="gallery">
-            <img src="img/1 (1).jpeg" alt="Foto Puput">
-            <img src="img/1 (1).jpg" alt="Foto Puput">
-            <img src="img/1 (2).jpg" alt="Foto Puput">
-            <img src="img/1 (3).jpg" alt="Foto Puput">
-            <img src="img/1 (4).jpg" alt="Foto Puput">
-            <img src="img/1 (5).jpg" alt="Foto Puput">
-            <img src="img/1 (6).jpg" alt="Foto Puput">
+            <img src="1 (1).jpeg" alt="Foto Puput">
+            <img src="1 (1).jpg" alt="Foto Puput">
+            <img src="1 (2).jpg" alt="Foto Puput">
+            <img src="1 (3).jpg" alt="Foto Puput">
+            <img src="1 (4).jpg" alt="Foto Puput">
+            <img src="1 (5).jpg" alt="Foto Puput">
+            <img src="1 (6).jpg" alt="Foto Puput">
         </div>
         
         <div class="icons">
